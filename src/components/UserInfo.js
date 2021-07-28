@@ -16,7 +16,7 @@ class userInfo extends Component {
       500 * (this.props.interval + 1)
     );
 
-    setTimeout(() => this.getAddresses(), 1200 * (this.props.interval + 1));
+    setTimeout(() => this.getAddresses(), 900 * (this.props.interval + 1));
   }
 
   toNumber = () => {
