@@ -6499,5 +6499,16 @@
     "ContractAddress": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
     "TokenName": "NUX Peanut.trade",
     "TokenSymbol": "NUX"
+  },
+  {
+    "Txhash": "0xa6c9b2535729bf65b8d795fc50be96d7de470ee9cf59cc98257937a8ff625ba4",
+    "UnixTimestamp": 1608637585,
+    "DateTime": "2020-12-22 11:46:25",
+    "From": "0xbb12800e7446a51395b2d853d6ce7f22210bb5e5",
+    "To": "0x1f1ccf377d4fc66f600a60ca66f7bb8000843068",
+    "Value": "4,000,000",
+    "ContractAddress": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+    "TokenName": "NUX Peanut.trade",
+    "TokenSymbol": "NUX"
   }
 ]

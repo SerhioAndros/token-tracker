@@ -98,7 +98,7 @@ class userInfo extends Component {
                 )}
               </>
             ) : (
-              <td>Checking...</td>
+              <td>Only income TX</td>
             )}
           </>
         )}
