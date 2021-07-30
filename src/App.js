@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 import { v4 as uuid } from "uuid";
-import presaleUsersArray from "./data/presale.json";
+import presaleUsersArray from "./data/test.json";
 import UserInfo from "./components/UserInfo";
 
 class App extends Component {

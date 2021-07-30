@@ -1,27 +1,5 @@
 [
   {
-    "Txhash": "0x688c4b6f8c355b6e2631952085e4b407ab1b11fdfe9679a4d39a8f2be9118391",
-    "UnixTimestamp": 1612270660,
-    "DateTime": "2021-02-02 12:57:40",
-    "From": "0xbb12800e7446a51395b2d853d6ce7f22210bb5e5",
-    "To": "0xee282f939aeb304f2af3441528e7554bac799a7d",
-    "Value": "4,000,000",
-    "ContractAddress": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
-    "TokenName": "NUX Peanut.trade",
-    "TokenSymbol": "NUX"
-  },
-  {
-    "Txhash": "0x4a33670c45c9ed956c94c1794c3f77c86a861c51f2335ae4035d289e1b0c091e",
-    "UnixTimestamp": 1612446575,
-    "DateTime": "2021-02-04 13:49:35",
-    "From": "0xa1d8d972560c2f8144af871db508f0b0b10a3fbf",
-    "To": "0xee282f939aeb304f2af3441528e7554bac799a7d",
-    "Value": "1,092",
-    "ContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-    "TokenName": "Tether USD",
-    "TokenSymbol": "USDT"
-  },
-  {
     "Txhash": "0xbcc914bd2bbfaecce7954f6b9ac316144e6ad62facdfc362029d34ee3372a8d6",
     "UnixTimestamp": 1612668806,
     "DateTime": "2021-02-07 03:33:26",

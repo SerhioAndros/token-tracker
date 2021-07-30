@@ -1,16 +1,5 @@
 [
   {
-    "Txhash": "0xa6c9b2535729bf65b8d795fc50be96d7de470ee9cf59cc98257937a8ff625ba4",
-    "UnixTimestamp": 1608637585,
-    "DateTime": "2020-12-22 11:46:25",
-    "From": "0xbb12800e7446a51395b2d853d6ce7f22210bb5e5",
-    "To": "0x1f1ccf377d4fc66f600a60ca66f7bb8000843068",
-    "Value": "4,000,000",
-    "ContractAddress": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
-    "TokenName": "NUX Peanut.trade",
-    "TokenSymbol": "NUX"
-  },
-  {
     "Txhash": "0x1da3e1da88673f71290b8d6358749afb944c3f5a8972312d366438c1cf8f1c77",
     "UnixTimestamp": 1608649208,
     "DateTime": "2020-12-22 15:00:08",
@@ -97,17 +86,6 @@
     "ContractAddress": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
     "TokenName": "NUX Peanut.trade",
     "TokenSymbol": "NUX"
-  },
-  {
-    "Txhash": "0x9f6ce06ecf1b0207c3401d05890f98881905e1cb55563e8c0eb73387bd629015",
-    "UnixTimestamp": 1608649363,
-    "DateTime": "2020-12-22 15:02:43",
-    "From": "0x92989eb906d40c6385c9982b08c5953cbf763ab2",
-    "To": "0x1f1ccf377d4fc66f600a60ca66f7bb8000843068",
-    "Value": "900",
-    "ContractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-    "TokenName": "USD Coin",
-    "TokenSymbol": "USDC"
   },
   {
     "Txhash": "0xdbf7cbed04dcbd8ed9f50f53b2ad1a46fa1c9006946efca1eb0ea4783249c053",
@@ -1824,28 +1802,6 @@
     "ContractAddress": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
     "TokenName": "NUX Peanut.trade",
     "TokenSymbol": "NUX"
-  },
-  {
-    "Txhash": "0xf89672a17dc08639bcd82665af0cf7a93eb89524ddc754fa60e4e729f6b9ce73",
-    "UnixTimestamp": 1608661899,
-    "DateTime": "2020-12-22 18:31:39",
-    "From": "0xf29d9bc8b46b2ff26867bed73ba2def0e160bbff",
-    "To": "0x1f1ccf377d4fc66f600a60ca66f7bb8000843068",
-    "Value": "700",
-    "ContractAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-    "TokenName": "Tether USD",
-    "TokenSymbol": "USDT"
-  },
-  {
-    "Txhash": "0x6c5d42dd8e5fd1b857f85813bde2d3764b4ef015b4fc6639174935274db5d757",
-    "UnixTimestamp": 1608661955,
-    "DateTime": "2020-12-22 18:32:35",
-    "From": "0xec69dd9ae37bbc30a9201a825ea6bcf628d87807",
-    "To": "0x1f1ccf377d4fc66f600a60ca66f7bb8000843068",
-    "Value": "10,000",
-    "ContractAddress": "0x346be08316395b3b5b9a53717faf42a9b98a33a5",
-    "TokenName": "Tether USD",
-    "TokenSymbol": "USDT"
   },
   {
     "Txhash": "0x27d7867b0517093a42bb2087758a79c42ad1375d03c354a3822d2cb4c84fa08b",
